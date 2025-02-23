@@ -1,7 +1,5 @@
 name = "my-app"
-type = "javascript"
 compatibility_date = "2025-02-23"
 
-[site]
-bucket = "./build"  
-entry-point = "."
+[pages]
+pages_build_output_dir = "./build" 
